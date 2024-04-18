@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitmern
+- 👋 Hi, I’m Pooja Gawade
 - 👀 I’m interested in data analysis, cleaning, visualization 
 - 🌱 I’m currently learning the Data Analytics course
 - 💞️ I’m looking to collaborate on ...
